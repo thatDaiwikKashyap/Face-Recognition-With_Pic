@@ -1,4 +1,4 @@
-#import CV2
+#import CV2  https://pypi.org/project/opencv-python/
 import cv2
 
 #Train the code
